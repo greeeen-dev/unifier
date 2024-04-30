@@ -10,6 +10,6 @@ I've just decided to make this blank repository so that's clear.
 
   https://github.com/UnifierHQ/unifier
 
-- **If you're looking for my personal fork (there's no active development on here)**
+- **If you're looking for my personal fork (there's no active development on there)**
 
   https://github.com/greeeen-dev/unifier-personal
